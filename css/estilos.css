@@ -1,0 +1,179 @@
+* {
+    padding: 3px;
+    margin: 3px;
+    box-sizing: border-box;
+}
+
+
+.titulo {
+    color: #515151;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.navbar {
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px 5px #d3d1d1c4;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nave{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.buscar{
+    /* position: absolute; */
+    padding: 5px;
+   
+    
+}
+
+.buscar input{
+    width: 540px;
+    height: 40px;
+    padding: 0 20px;
+    font-size: 18px;
+    /* color: #515151; */
+    outline: none;
+    border: 1px solid silver;
+    border-radius: 30px;
+}
+
+.lyc{
+    color: #515151;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+.primaria{
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #515151;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+li {
+    list-style-type: none;
+
+
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+
+
+}
+
+.headerBarra {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.nav {
+    width: 100%;
+    
+
+}
+.nav2{
+    width: 50%;
+    align-self: center;
+
+}
+
+.futel {
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px 5px #d3d1d1c4;
+    margin-top: 50px;
+
+}
+
+.inicio {
+    display: flex;
+    align-items: center;
+}
+
+.imagen{
+    height: 80%;
+    width: 80%;
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+.imagen2{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+.caratulas{
+    display: flex;
+    justify-content: space-around;
+    }
+    
+.imgBox{
+
+    height: 500px;
+    width: 400px;
+}
+    
+    .destiny{
+        /* width:100%; */
+        height: 100%;
+    }
+    .telast{
+        height: 100%;
+        /* width: 100%; */
+    }
+    .gta{
+        height: 100%;
+        /* width: 100%; */
+    }
+
+    .musica{
+        display: flex;
+        justify-content: center;
+        margin-top: 100px;
+    }
+
+    .subtite{
+        color: #515151;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    
+    margin-bottom: 50px;
+    }
+    .subtite2{
+        color: #515151;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    }
+
+    .resaltador{
+        color: #e63946; font-size: 20px;
+
+    }
+
+
+    
